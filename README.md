@@ -40,11 +40,6 @@ your drawing easier.
   - FastApi
 - Link to the project repository :https://github.com/phukrit7171/photoDraw.git
 
-### [Project 2 Name]
-
-- Brief description
-- Technologies used
-- Link to the project repository
 
 ## ⚡ Fun Fact
 
