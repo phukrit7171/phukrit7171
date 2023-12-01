@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 # Hi there! 👋 -->
 
-I'm [Mr.Phukrit Kittinontan], a passionate developer with a focus on IoT, automation, and a diverse skill set that includes C++, Python, HTML/CSS, and Linux. Welcome to my GitHub profile!
+I'm Mr.Phukrit Kittinontan, a passionate developer with a focus on IoT, automation, and a diverse skill set that includes C++, Python, HTML/CSS, and Linux. Welcome to my GitHub profile!
 
 ## About Me
 
@@ -38,7 +38,7 @@ I'm [Mr.Phukrit Kittinontan], a passionate developer with a focus on IoT, automa
 - Technologies used
 - Link to the project repository
 
-## Fun Fact
+## ⚡ Fun Fact
 
 "It's not a bug – it's an undocumented feature."
 
@@ -51,9 +51,8 @@ I'm [Mr.Phukrit Kittinontan], a passionate developer with a focus on IoT, automa
 
 ## Connect with Me
 
-- [LinkedIn](Your LinkedIn Profile Link)
-- [Twitter](Your Twitter Profile Link)
-- [Personal Website/Blog](Your Website/Blog Link)
+- Tell : +66979216240
+- Facebook : https://web.facebook.com/phukrit7171/
 
 Feel free to explore my repositories, and don't hesitate to reach out if you have any questions or collaboration ideas!
 
