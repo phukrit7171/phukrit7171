@@ -47,10 +47,10 @@ your drawing easier.
 
 ## Skills
 
-- **C++ on Arduino IDE:** 50%
-- **Python (GUI, ML, DL, Basic OOP):** 20%
-- **HTML with CSS and Bootstrap:** 10%
-- **Linux Command Line:** 20%
+- **C++ on Arduino IDE:** 
+- **Python (GUI, ML, DL, Basic OOP):**
+- **HTML with CSS and Bootstrap:**
+- **Linux Command Line:**
 
 <!-- [![Phukrit's GitHub stats](https://github-readme-stats.vercel.app/api?username=phukrit7171)](https://github.com/anuraghazra/github-readme-stats) -->
 ## Connect with Me
