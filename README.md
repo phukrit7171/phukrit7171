@@ -37,7 +37,6 @@ your drawing easier.
   - Bootstrap 5
   - Python
     - YoLo v8
-    - PyTorch
   - FastApi
 - Link to the project repository : https://github.com/phukrit7171/photoDraw.git
 
