@@ -13,7 +13,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-# Hi there! 👋 -->
+-->
+# Hi there! 👋 
 
 I'm Mr.Phukrit Kittinontan, a passionate developer with a focus on IoT, automation, and a diverse skill set that includes C++, Python, HTML/CSS, and Linux. Welcome to my GitHub profile!
 
