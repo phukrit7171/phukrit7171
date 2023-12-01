@@ -50,6 +50,7 @@ I'm Mr.Phukrit Kittinontan, a passionate developer with a focus on IoT, automati
 - **HTML with CSS and Bootstrap:** 10%
 - **Linux Command Line:** 20%
 
+[![Phukrit's GitHub stats](https://github-readme-stats.vercel.app/api?username=phukrit7171)](https://github.com/anuraghazra/github-readme-stats)
 ## Connect with Me
 
 - Tell : +66979216240
