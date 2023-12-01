@@ -38,7 +38,7 @@ your drawing easier.
   - Python
     - PyTorch
   - FastApi
-- Link to the project repository :https://github.com/phukrit7171/photoDraw.git
+- Link to the project repository : https://github.com/phukrit7171/photoDraw.git
 
 
 ## ⚡ Fun Fact
