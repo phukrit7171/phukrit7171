@@ -27,11 +27,18 @@ I'm Mr.Phukrit Kittinontan, a passionate developer with a focus on IoT, automati
 
 ## Projects
 
-### [Project 1 Name]
+### [PhotoDraw]
 
 - Brief description
+  - PhotoDraw is a web application that can make 
+your drawing easier.
 - Technologies used
-- Link to the project repository
+  - Html
+  - Bootstrap 5
+  - Python
+    - PyTorch
+  - FastApi
+- Link to the project repository :https://github.com/phukrit7171/photoDraw.git
 
 ### [Project 2 Name]
 
@@ -50,7 +57,7 @@ I'm Mr.Phukrit Kittinontan, a passionate developer with a focus on IoT, automati
 - **HTML with CSS and Bootstrap:** 10%
 - **Linux Command Line:** 20%
 
-[![Phukrit's GitHub stats](https://github-readme-stats.vercel.app/api?username=phukrit7171)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Phukrit's GitHub stats](https://github-readme-stats.vercel.app/api?username=phukrit7171)](https://github.com/anuraghazra/github-readme-stats) -->
 ## Connect with Me
 
 - Tell : +66979216240
