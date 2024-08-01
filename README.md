@@ -25,6 +25,7 @@ I'm Mr.Phukrit Kittinontan, a passionate developer with a focus on IoT, automati
 - 💻 I have hands-on experience with HTML, CSS, and Bootstrap for creating responsive web applications.
 - 🐧 I'm comfortable navigating the Linux command line and love tinkering with open-source technologies.
 
+<!--
 ## Projects
 
 ### [PhotoDraw]
@@ -38,7 +39,7 @@ your drawing easier.
   - Python
     - FastApi
 
-
+-->
 ## ⚡ Fun Fact
 
 "It's not a bug – it's an undocumented feature."
