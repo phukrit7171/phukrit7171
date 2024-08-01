@@ -36,9 +36,7 @@ your drawing easier.
   - Html
   - Bootstrap 5
   - Python
-    - YoLo v8
-  - FastApi
-- Link to the project repository : https://github.com/phukrit7171/photoDraw.git
+    - FastApi
 
 
 ## ⚡ Fun Fact
