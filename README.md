@@ -22,7 +22,7 @@ I'm Mr.Phukrit Kittinontan, a passionate developer with a focus on IoT, automati
 
 - 🌐 I specialize in IoT development using C++ on Arduino IDE for ESP32, ESP8266, and Arduino UNO for automation.
 <!--- 🚀 I'm exploring the realms of Machine Learning and Deep Learning, with proficiency in Python, Numpy, TensorFlow, and PyTorch.-->
-- 💻 I have hands-on experience with HTML, CSS, and Bootstrap for creating responsive web applications.
+- 💻 I have hands-on experience with HTML, CSS, and Bootstrap 5 for creating responsive web applications.
 - 🐧 I'm comfortable navigating the Linux command line and love tinkering with open-source technologies.
 
 <!--
