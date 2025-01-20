@@ -46,7 +46,7 @@ your drawing easier.
 ## Skills
 
 - **C++ on Arduino IDE:** 
-- **Python (GUI, ML, DL, Basic OOP):**
+- **Python (GUI, Automate, Basic OOP):**
 - **HTML with CSS and Bootstrap:**
 - **Linux Command Line:**
 
