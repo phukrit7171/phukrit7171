@@ -175,3 +175,21 @@
     0% { background-position: 0 0; }
     100% { background-position: 4000px 4000px; }
 }
+
+/* Profile Image Container Effect */
+.profile-img-container::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border-radius: inherit; /* Inherit border-radius from parent */
+    background: linear-gradient(to right, var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+    --tw-gradient-from: #00ffff; /* cyber-primary */
+    --tw-gradient-to: #ff00ff; /* cyber-secondary */
+    --tw-gradient-from-position: 0%;
+    --tw-gradient-to-position: 100%;
+    opacity: 0.1;
+    z-index: 0; /* Ensure it's behind the image */
+}
