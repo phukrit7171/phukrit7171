@@ -159,3 +159,19 @@
     position: relative;
     z-index: 2;
 }
+
+/* Circuit Board Background Pattern */
+.circuit-board-background {
+    background-color: #0a0f1a; /* Dark background */
+    background-image: 
+        radial-gradient(circle at center, rgba(0, 255, 255, 0.05) 1px, transparent 1px),
+        repeating-linear-gradient(0deg, rgba(0, 255, 255, 0.03) 0, rgba(0, 255, 255, 0.03) 1px, transparent 1px, transparent 40px),
+        repeating-linear-gradient(90deg, rgba(0, 255, 255, 0.03) 0, rgba(0, 255, 255, 0.03) 1px, transparent 1px, transparent 40px);
+    background-size: 40px 40px;
+    animation: circuit-flow 60s linear infinite;
+}
+
+@keyframes circuit-flow {
+    0% { background-position: 0 0; }
+    100% { background-position: 4000px 4000px; }
+}
