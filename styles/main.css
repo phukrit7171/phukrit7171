@@ -3,6 +3,8 @@ body {
     font-family: 'Exo 2', 'sans-serif';
     overflow-x: hidden;
     background-attachment: fixed;
+    -webkit-backdrop-filter: blur(12px);
+    backdrop-filter: blur(12px);
 }
 
 .cyber-border {
@@ -11,6 +13,7 @@ body {
     transition: all 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
     overflow: hidden;
     border-radius: 16px;
+    -webkit-backdrop-filter: blur(12px);
     backdrop-filter: blur(12px);
     background: rgba(10, 15, 26, 0.3);
     box-shadow: 0 8px 32px rgba(0, 0, 0, 0.1);
@@ -86,6 +89,7 @@ body {
     position: relative;
     overflow: hidden;
     border-radius: 8px;
+    -webkit-backdrop-filter: blur(5px);
     backdrop-filter: blur(5px);
     background: rgba(0, 255, 255, 0.1);
 }
@@ -182,6 +186,7 @@ body {
     border: 1px solid rgba(0, 255, 255, 0.2);
     border-radius: 8px;
     background: rgba(10, 15, 26, 0.4);
+    -webkit-backdrop-filter: blur(5px);
     backdrop-filter: blur(5px);
 }
 
@@ -196,6 +201,7 @@ body {
     transition: all 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275);
     transform: scale(1);
     position: relative;
+    -webkit-backdrop-filter: blur(3px);
     backdrop-filter: blur(3px);
     border-radius: 50%;
     padding: 12px;
@@ -280,6 +286,7 @@ body {
 }
 
 .glass-effect {
+    -webkit-backdrop-filter: blur(12px);
     backdrop-filter: blur(12px);
     background: rgba(10, 15, 26, 0.3);
     border: 1px solid rgba(255, 255, 255, 0.05);
@@ -289,6 +296,7 @@ body {
 }
 
 .hero-glass {
+    -webkit-backdrop-filter: blur(15px);
     backdrop-filter: blur(15px);
     background: rgba(10, 15, 26, 0.2);
     border: 1px solid rgba(0, 255, 255, 0.1);
@@ -296,11 +304,13 @@ body {
 }
 
 .nav-glass {
+    -webkit-backdrop-filter: blur(15px);
     backdrop-filter: blur(15px);
     background: rgba(10, 15, 26, 0.8);
 }
 
 .skill-tag {
+    -webkit-backdrop-filter: blur(5px);
     backdrop-filter: blur(5px);
     background: rgba(0, 255, 255, 0.1);
     border: 1px solid rgba(0, 255, 255, 0.2);
@@ -320,6 +330,7 @@ body {
     border-radius: 20px;
     transition: all 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
     background: rgba(10, 15, 26, 0.2);
+    -webkit-backdrop-filter: blur(12px);
     backdrop-filter: blur(12px);
     border: 1px solid rgba(0, 255, 255, 0.15);
     box-shadow: 
@@ -413,6 +424,7 @@ body {
     width: 100%;
     height: 100%;
     background: rgba(10, 15, 26, 0.95);
+    -webkit-backdrop-filter: blur(10px);
     backdrop-filter: blur(10px);
     z-index: 40;
     opacity: 0;
