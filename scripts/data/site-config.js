@@ -5,9 +5,9 @@ export const siteConfig = {
             { text: "HOME", href: "#home" },
             { text: "ABOUT", href: "#about" },
             { text: "SKILLS", href: "#skills" },
-            { text: "TEAM", href: "#profiles" },
-            { text: "PROJECTS", href: "#projects" },
-            { text: "CONTACT", href: "#contact" }
+            // { text: "TEAM", href: "#profiles" },
+            // { text: "PROJECTS", href: "#projects" },
+            // { text: "CONTACT", href: "#contact" }
         ]
     },
     hero: {
@@ -21,14 +21,14 @@ export const siteConfig = {
     },
     about: {
         heading: "ABOUT ME",
-        subHeading: "CYBER DEVELOPER",
+        subHeading: "Mr.Phukrit Kittinontana",
         paragraphs: [
             "I'm a passionate full-stack developer specializing in creating futuristic web applications with cutting-edge technologies. My expertise lies in building responsive, high-performance applications with immersive cyberpunk aesthetics.",
             "With a background in both frontend and backend development, I bring ideas to life through clean code and innovative design solutions."
         ],
         details: [
-            { label: "LOCATION", value: "NEO CITY, CYBERSPACE" },
-            { label: "EMAIL", value: "dev@cyber.world" }
+            { label: "LOCATION", value: "CAMT, CMU" },
+            { label: "EMAIL", value: "phukrit7171@gmail.com" }
         ]
     },
     skills: {
@@ -92,7 +92,7 @@ export const siteConfig = {
         ]
     },
     contact: {
-        heading: "CONTACT CYBERSPACE",
+        heading: "CONTACT ME",
         formLabels: {
             name: "NAME",
             email: "EMAIL",

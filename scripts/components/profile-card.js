@@ -1,13 +1,3 @@
-const profiles = [
-    {
-        name: "Mr.Phukrit Kittinontana",
-        imgProfile: "https://scontent.fbkk5-3.fna.fbcdn.net/v/t39.30808-6/488527435_2307019556336372_4362876419344529351_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeGM2cVjRfJkj-wDpQfAnPwLVIewle_taNdUh7CV7-1o1wfU_Nq-oGQAnTFz2bCinxAthktGsGeyLusI64M_rcgX&_nc_ohc=BDMm2tZCEyYQ7kNvwFWX0o2&_nc_oc=Adn5WgDIYTz6Mr4eCRq6J5AIhqKX9hXN_AbkUxbpa_q4AtRxCNytpJBYWIoRbm_ctx0&_nc_zt=23&_nc_ht=scontent.fbkk5-3.fna&_nc_gid=00u8dNspa_BIUq4PfgdrWg&oh=00_AfSCi8niw1iWjHdeDoDMFAnq5v-lx7itTMWOkLx2dDvpjA&oe=688C2C3D",
-        aboutMe: "A visionary full-stack developer crafting immersive digital experiences with cutting-edge technologies and futuristic design principles.",
-        location: "TLIC CAMT CMU",
-        email: "phukrit7171@gmail.com"
-    }
-];
-
 function renderProfileCards() {
     const container = document.getElementById('profile-cards-container');
     if (!container) {
