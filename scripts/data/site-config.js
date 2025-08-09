@@ -15,8 +15,8 @@ export const siteConfig = {
         subHeading: "FULL STACK DEVELOPER",
         description: "Creating immersive digital experiences with cutting-edge technologies and futuristic design principles.",
         buttons: [
-            { text: "VIEW PROJECTS", className: "px-6 py-3 md:px-8 md:py-4 bg-cyber-primary text-cyber-dark font-bold rounded-lg neon-button text-base md:text-lg" },
-            { text: "DOWNLOAD CV", className: "px-6 py-3 md:px-8 md:py-4 border border-cyber-primary text-cyber-primary font-bold rounded-lg hover:bg-cyber-primary hover:text-cyber-dark transition duration-300 text-base md:text-lg" }
+            { text: "VIEW PROJECTS", className: "px-6 py-3 md:px-8 md:py-4 bg-cyber-primary text-cyber-dark font-bold rounded-lg neon-button text-base md:text-lg hidden" },
+            { text: "DOWNLOAD CV", className: "px-6 py-3 md:px-8 md:py-4 border border-cyber-primary text-cyber-primary font-bold rounded-lg hover:bg-cyber-primary hover:text-cyber-dark transition duration-300 text-base md:text-lg hidden" }
         ]
     },
     about: {
