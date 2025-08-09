@@ -17,13 +17,13 @@ Here are some ideas to get you started:
 # Hi there![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 I'm Mr.Phukrit Kittinontan, a passionate developer with a focus on IoT, automation, and a diverse skill set that includes C++, Python, HTML/CSS, and Linux. Welcome to my GitHub profile!
 
+
 ## About Me
 
 - 🌐 I specialize in IoT development using C++ on Arduino IDE for ESP32, ESP8266, and Arduino UNO for automation.
 <!--- 🚀 I'm exploring the realms of Machine Learning and Deep Learning, with proficiency in Python, Numpy, TensorFlow, and PyTorch.-->
 - 💻 I have hands-on experience with HTML, CSS, and Bootstrap 5 for creating responsive web applications.
 - 🐧 I'm comfortable navigating the Linux command line and love tinkering with open-source technologies.
-
 <!--
 ## Projects
 
@@ -57,5 +57,6 @@ your drawing easier.
 - [Facebook](https://web.facebook.com/phukrit7171/)
 
 Feel free to explore my repositories, and don't hesitate to reach out if you have any questions or collaboration ideas!
+[Click this to see more details](https://phukrit7171.github.io/phukrit7171/)
 
 Happy coding! 🚀
