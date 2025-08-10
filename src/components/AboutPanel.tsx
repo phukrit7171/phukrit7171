@@ -33,6 +33,14 @@ export const AboutPanel: React.FC = () => {
           <h2 className="panel-title">//USER_PROFILE: PHUKRIT.K</h2>
         </div>
 
+        <div className="profile-image-container">
+          <img
+            src="https://avatars.githubusercontent.com/u/64061607?s=400&u=9f82546c4d9fd18a70081bb0ec5f30a8d38966de&v=4"
+            alt="Phukrit Kittinontana"
+            className="profile-image"
+          />
+        </div>
+
         <div className="profile-section">
           <div className="status-item">
             <GraduationCap className="w-4 h-4" />
