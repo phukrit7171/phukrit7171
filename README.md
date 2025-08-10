@@ -8,14 +8,16 @@ This project is configured for automatic deployment to GitHub Pages using GitHub
 
 ### Setup Instructions
 
-1. **Enable GitHub Pages**:
-   - Go to your repository settings
-   - Navigate to **Pages** section
-   - Under **Build and deployment**, select **GitHub Actions**
+1. **Enable GitHub Pages** (Required First Step):
+   - Go to your repository **Settings** → **Pages**
+   - Under **Build and deployment**, select **GitHub Actions** as the source
+   - Click **Save**
+   - This step must be completed before the workflow can run successfully
 
 2. **Automatic Deployment**:
    - The workflow triggers automatically on pushes to `main` or `master` branch
    - Pull requests to these branches will also trigger builds (but not deployment)
+   - You can also trigger manually via **Actions** tab → **Deploy to GitHub Pages** → **Run workflow**
 
 3. **Manual Deployment**:
    - Go to **Actions** tab in your repository
